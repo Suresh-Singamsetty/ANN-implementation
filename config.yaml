@@ -1,6 +1,5 @@
 params:
- test: teconfig_pathstKeyword
- epochs: 30
+ epochs: 5
  batch_size: 32
  no_classes: 10
  input_shape: [28,28]
@@ -9,11 +8,15 @@ params:
  optimizer: SGD
  validation_datasize: 5000
 
+
+
 artifacts:
  artifacts_dir: artifacts
- model_dr: model_dr
- plots_dr: plots_
+ model_dir: model
+ plots_dir: plots
  checkpoint_dr: checkpoints
+ model_name: model.h5
+ plot_name: plot.png
 
 logs: 
  logs_dir: logs_dir
