@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\artifacts",
+    "\\artifacts\\plots",
     "\\src",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\utils\\data_mgmt.py",
+  "SelectedNode": "\\artifacts\\plots\\20211009_200416_plot.png",
   "PreviewInSolutionExplorer": false
 }
