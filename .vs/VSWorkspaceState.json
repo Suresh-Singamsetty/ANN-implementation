@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\artifacts",
+    "\\artifacts\\model",
     "\\artifacts\\plots",
     "\\src",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\artifacts\\plots\\20211009_200416_plot.png",
+  "SelectedNode": "\\src\\utils\\plot.py",
   "PreviewInSolutionExplorer": false
 }
